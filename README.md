@@ -1,7 +1,7 @@
 # EcTracker
 EcTracker: Tracking and elucidating ectopic expression leveraging large scale scRNA-seq studies
 ## Workflow
-<img src="main/www/Workflow.png"> <br/>
+<img src="main/www/WorkFlow.png"> <br/>
 ###
 ## Key Points<br/> 
 1. EcTracker possesses two distinct modules i.e. CellEnrich and TissueEnrich, to allow detection of cell-type or tissue-specific genes in the user-supplemented scRNA-sequencing dataset.
